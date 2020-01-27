@@ -2,7 +2,7 @@
 *
 
 # Except the subfolder(s) and file(s)
-!scr/
-!scr/*
+!cnn
+!cnn/*
 
 !.gitignore
