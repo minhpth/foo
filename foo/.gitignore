@@ -1,7 +1,8 @@
-# Except the subfolder
-# !scr/
-
 # Ignore all files in this folder
-/*
+*
+
+# Except the subfolder
+scr/
+scr/*
 
 !.gitignore
