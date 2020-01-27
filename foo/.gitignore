@@ -1,5 +1,5 @@
 # Except the subfolder
-!scr/
+#!scr/
 
 # Ignore all files in this folder
 *
